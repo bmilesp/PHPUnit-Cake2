@@ -17,6 +17,8 @@ PHP5.3 and CakePHP2.x (>= 2.3)
 
 ## Install the Plugin
 
+Istall withg composer via packagist by adding to your composer.json:require object:  
+
 Install this plugin to your `app/Plugin` folder by cloning it to a folder called "Phpunit"
 
 Make sure you got either `CakePlugin::loadAll()` - or specifically `CakePlugin::load('Phpunit')` in your bootstrap!
