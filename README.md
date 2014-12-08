@@ -17,7 +17,11 @@ PHP5.3 and CakePHP2.x (>= 2.3)
 
 ## Install the Plugin
 
-Istall withg composer via packagist by adding to your composer.json:require object:  
+Install with composer via packagist by adding to your composer.json:require object:  
+
+	"bmilesp/phpunit-cake2": "dev-master"
+
+Or:
 
 Install this plugin to your `app/Plugin` folder by cloning it to a folder called "Phpunit"
 
