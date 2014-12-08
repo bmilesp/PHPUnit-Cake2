@@ -9,6 +9,9 @@
     ],
     "minimum-stability": "dev",
     "type": "cakephp-plugin",
+    "extra": {
+        "installer-name": "Phpunit"
+    }
     "require": {
         "composer/installers": "~1.0"
     }
