@@ -1,0 +1,15 @@
+{
+    "name": "bmilesp/phpunit-cake2",
+    "description": "packagist wraper forked from Hyra/PHPUnit-Cake2",
+    "authors": [
+        {
+            "name": "bmilesp",
+            "email": "bmilesp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
